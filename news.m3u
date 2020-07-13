@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sofreshizzy/tv/master/tvbnews.png" group-title="TV",TVB News
+http://45.93.217.106/jiuban/hg.php?id=1
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NHKWorldJapan_600x600.png?raw=true" group-title="TV",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="TV",CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
