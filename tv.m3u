@@ -89,13 +89,21 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="TV",CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="US TV",NBC-TV
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="US TV",ABC-TV
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="US TV",CBS-TV
-http://190.80.3.28/CBS/CBS.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="US TV",The CW
-http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="US TV",PBS-
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="US TV",The CW Seattle
+http://ingrid.ltd:25461/Melon3175/Melon7531/86505?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",ABC Seattle
+http://randomserver.site:2086/live/Bria/Bria/90331.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",CBS Seattle
+http://randomserver.site:2086/crystal/12345/90355?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",Fox Seattle
+http://randomserver.site:2086/crystal/12345/90385?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",NBC Seattle
+http://randomserver.site:2086/live/Bria/Bria/90412.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",CBC Vancouver
+http://ingrid.ltd:25461/Melon3175/Melon7531/67454?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",CTV Vancouver
+http://randomserver.site:2086/live/Bria/Bria/91254.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",Global Vancouver
+http://mhiptv.com:8888/noval/123456/15232?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",City Vancouver
+http://mhiptv.com:8888/noval/123456/15229?checkedby:iptvcat.com
