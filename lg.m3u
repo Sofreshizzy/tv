@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NHKWorldJapan_600x600.png?raw=true" group-title="TV",NHK World Japan
+https://b-nhkwlive-fo-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_2M.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sofreshizzy/tv/master/FoxNews.png" group-title="TV",FOX News
+http://ingrid.ltd:25461/Melon3175/Melon7531/21783?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sofreshizzy/tv/master/tvbnews.png" group-title="TV",TVB News
+http://45.93.217.106/jiuban/hg.php?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="TV",CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="TV",CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="US TV",The CW Seattle
+http://ingrid.ltd:25461/Melon3175/Melon7531/86505?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",ABC Seattle
+http://randomserver.site:2086/live/Bria/Bria/90331.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",CBS Seattle
+http://randomserver.site:2086/crystal/12345/90355?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",Fox Seattle
+http://randomserver.site:2086/crystal/12345/90385?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",NBC Seattle
+http://randomserver.site:2086/live/Bria/Bria/90412.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",CBC Vancouver
+http://ingrid.ltd:25461/Melon3175/Melon7531/67454?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US TV",CTV Vancouver
+http://randomserver.site:2086/live/Bria/Bria/91254.m3u8?checkedby:iptvcat.com
