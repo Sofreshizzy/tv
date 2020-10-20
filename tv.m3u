@@ -1,78 +1,8 @@
 # ************************************************************************************************************************************* 
-#
-# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Frugal Streamer
-# https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
-#
-# Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
-# links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
-# guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
-# Channel list begins after the Changelog in this document.
-#
-# Some sources used for this list: 
-# Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
-# Distro TV: https://www.distro.tv/ (channels in playlist designated with *)
-# Bumblebee TV: https://www.bumblebee.tv/
-#
-# Download the complete Changelog (News and Updates):
-# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
-#
-# Update: 1/02/2020 - NEW CATEGORY ADDED: Full set of NASA streams (including ISS HD Earth Viewing Experiment) in NASA TV category. 
-# Update: 1/02/2020 - CHANNEL MAINTENANCE: Added additional LIVE NEWS sources. Added Alternate stream sources for NASA TV channels.
-# Update: 1/06/2020 - NEW CHANNEL: The Miracle Channel added in CANADIAN TV, view online: https://miraclechannel.ca/live.
-# Update: 1/06/2020 - CHANNEL MAINTENANCE: Cheddar Networks, as well as NewsNet (SD) original network live stream sources updated.
-# Update: 1/07/2020 - NEW CHANNEL CATEGORY: (by request) Added a selection of AUSTRALIAN TV live news and sports news channels.
-# Update: 1/14/2020 - NEW CHANNEL ADDED: Just for the kiddies: tvo KIDS 24/7 live stream/channel added in CANADIAN TV category.
-# Update: 1/14/2020 - CHANNEL MAINTENANCE: Updated ABC-TV (1) [USA FREE OTA TV]; Miami TV / Miami TV Jenny [Travel & Tourism].
-# Update: 1/15/2020 - CHANNEL MAINTENANCE: Added additional resolutions of the Olympic Channel. Now 480p through 1080p.
-# Update: 1/18/2020 - NEW CHANNELS ADDED: In the SPORTS category: added The Tennis Channel Plus 1 and 2; BeIN Sports Xtra.
-# Update: 1/18/2020 - NEW CHANNELS ADDED: In SPECIAL INTEREST: This Old House 24x7; The Design Channel; AFV Family (Viral Videos).
-# Update: 1/18/2020 - NEW CHANNELS ADDED: Added Stirr TV 24x7 category with the best of 24x7 series marathons.
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: USA FREE OTA TV cleaned up. Added THE TENNIS CHANNEL FREE category with 5 free streams.
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated live links for Miami TV / Miami TV - Jenny in TRAVEL & TOURISM category.
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated new sources for Charge! and Comet TV. Added Jasmin.TV (International TV).
-# Update: 1/19/2020 - CHANNEL MAINTENANCE: Updated all links to new sources in the LIVE NEWS category.
-# Update: 1/20/2020 - NEW RADIO CHANNELS ADDED: By request, added new radio streams from Halifax, NS in LIVE RADIO CANADA category. 
-# Update: 1/22/2020 - CHANNEL MAINTENANCE: Cleaned up and updated PLUTO TV (2) MOVIES with top popular channels in this category.
-# Update: 1/23/2020 - CATEGORY PLAYLIST: Moved USA FREE OTA and USA FREE OTA TV25 categories ahead in the playlist. 
-# Update: 1/23/2020 - NEW CHANNELS ADDED: All available channels from ANTHYM TV (https://www.anthym.tv/livetv) in a new category.
-# Update: 1/24/2020 - PLAYLIST MAINTENANCE: Optimized playlist for use with KODI (updated tags for RADIO channels).
-# Update: 1/25/2020 - MAJOR UPDATE: Introducing new EPG service! Only available on select channels. See video in ABOUT US + EXTRAS.
-# Update: 1/25/2020 - EPG MAINTENANCE: Added EPG service to the entire USA FREE OTA TV25 category, channels from http://tv25.tv. 
-# Update: 1/25/2020 - EPG MAINTENANCE: Added new category (EPG | Free2View TV) which adds duplicate channels with EPG listings.
-# Update: 1/26/2020 - EPG MAINTENANCE: Updated additional channels in the ** EPG | Free2View TV ** category.
-# Update: 1/28/2020 - CATEGORY MAINTENANCE: Relocated LIVE NEWS category near EPG categories; cleaned up channels; added EPG.
-# Update: 1/28/2020 - PLAYLIST MAINTENANCE: Removed ANTHYM TV channels, not really "live", just redundant YouTube playlists.
-# Update: 1/28/2020 - CHANNEL MAINTENANCE: moved SportsGrid Network to the SPORTS category. Deleted Tennis Channel Plus 4 (dead).
-# Update: 1/28/2020 - CHANNEL MAINTENANCE: updated 247 Retro TV stream link in "Nostalgia Flicks" category.
-# Update: 1/29/2020 - NEW CHANNELS ADDED: NBC News Now launches official 24/7 live stream, added to respective NEWS categories.
-# Update: 1/30/2020 - PLAYLIST MAINTENANCE: Cleaned up sources in ENTERTAINMENT category. Cleaning up Pluto TV source streams.
-# Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
-# Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.
-# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels. Cleaned up / updated USA FREE OTA TV channels.
-# Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added / CBS News Minnesotta updated in CBS Interactive category.
-# Update: 2/02/2020 - NEW CHANNELS: Added additional channels in the USA FREE OTA TV category (K36JH 36.4, Impulse TV; KVVB 33.1).
-# Update: 2/02/2020 - PLAYLIST MAINTENANCE: Added/updated channels in various Pluto TV categories.
-# Update: 2/03/2020 - NEW CHANNELS ADDED: Two different streams of Dust science-fiction channel added to the Movies Plus category.
-# Update: 2/04/2020 - NEW CHANNELS ADDED: Added selected channels from Distro TV (http://www.distro.tv/) into its own category.
-# Update: 2/09/2020 - NEW CHANNELS / CATEGORY: Added "WatchYour.TV | TVS" category with all available channels.
-# Update: 2/10/2020 - PLAYLIST MAINTENANCE: Cleaned up and replaced new sources in the "EPG | Live News" category.
-# Update: 2/12/2020 - CHANNEL MAINTENANCE: "WatchYour.TV | TVS" replaced with sources from https://www.ginikousa.com/index.php
-# Update: 2/14/2020 - NEW CHANNELS / CATEGORY: Added new "Redbox Free Live TV" with Redbox exclusive channels.
-# Update: 2/14/2020 - CHANNEL MAINTENANCE: Cleaned up / Updated PLUTO TV and STIRR TV channel streams.
-# Update: 2/15/2020 - NEW CHANNEL ADDED: Added D5 TV, a French entertainment channel, into the International TV category.
-# Update: 2/21/2020 - PLAYLIST MAINTENANCE: Removed dupe channels from CBSi cat., renamed as CBS NEWS to accommodate new channels.
-# Update: 2/21/2020 - NEW CHANNELS ADDED: Added CBS News Denver to CBS NEWS. Added TVA (Geo) to CANADIAN TV.
-# Update: 2/23/2020 - NEW CHANNELS ADDED: Stadium Channel in HD in SPORTS category. New channels added in Distro TV category.
-# Update: 2/27/2020 - CHANNEL MAINTENANCE: Cleaned up some Pluto TV channels, deleted some dead links, replaced others with new links.
-# Update: 3/01/2020 - CHANNELS REMOVED: Removed the LIVE NEWS category. Unable to locate replacement sources for a while.
-# Update: 3/07/2020 - NEW CHANNELS ADDED: By request, added three Canadian Public Affairs Channels in CANADIAN TV.
-# Update: 3/07/2020 - NEW CHANNELS ADDED: CBS News | CBSN Pittsburgh. Also, the entire DISTRO TV channel line-up.
-#
-# ************************************************************************************************************************************* 
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NHKWorldJapan_600x600.png?raw=true" group-title="TV",NHK World Japan
-https://b-nhkwlive-fo-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_2M.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="TV",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="US TV",CBS News
