@@ -1,0 +1,27 @@
+Prepare the Operating System: Download and flash a Raspberry Pi OS image onto an SD card using a tool like Raspberry Pi Imager.
+
+Install the WiFi Adapter Driver: The Ralink RT5370N chipset should be supported out of the box by the Raspberry Pi OS. Connect the adapter and join your WiFi network through the OS’s network manager.
+
+Enable I2S and Configure the DAC: To use the PIFI Digi DAC+, you’ll need to enable I2S and configure the system to use the DAC for audio output. Add the following lines to /boot/config.txt:
+
+dtparam=i2s=on
+dtoverlay=hifiberry-dacplus
+After editing, reboot your Raspberry Pi for the changes to take effect1.
+
+Install Spotify Connect: Use the Raspotify package to install Spotify Connect on your Raspberry Pi:
+
+curl -sSL https://dtcooper.github.io/raspotify/key.asc | sudo tee /usr/share/keyrings/raspotify-archive-keyrings.asc > /dev/null
+echo 'deb [signed-by=/usr/share/keyrings/raspotify-archive-keyrings.asc] https://dtcooper.github.io/raspotify raspotify main' | sudo tee /etc/apt/sources.list.d/raspotify.list
+sudo apt update
+sudo apt install raspotify
+Configure Raspotify for the DAC: Edit the Raspotify configuration file to direct audio output to the DAC:
+
+sudo nano /etc/default/raspotify
+In the file, find the OPTIONS variable and add the following to specify the DAC as the output device:
+
+--device plughw:CARD=sndrpihifiberry
+Save the file and restart Raspotify.
+
+Start Streaming: With these settings, your Raspberry Pi will appear as a Spotify Connect device in your Spotify app, and the audio will be output through the PIFI Digi DAC+ HIFI DAC Audio Sound Card Module.
+
+Ensure you have a Spotify Premium account to use Spotify Connect and that your Raspberry Pi is connected to a power source and your audio system. Enjoy your high-quality music streaming! 🎵
